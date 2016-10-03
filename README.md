@@ -22,6 +22,7 @@ Be careful to wire the charging circuit the right way. Also  change the resistor
 * NodeMCU GND -> TP4056 OUT-
 * NodeMCU Vin -> TP4056 OUT+
  * I attached a switch beween the above connection to switch the device on and off
+ 
  ---
  
  ##Software
