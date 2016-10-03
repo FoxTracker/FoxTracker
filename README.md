@@ -21,13 +21,12 @@ Test your circuit on a breadboard first!
 Be careful to wire the charging circuit the right way. Also  change the resistor of this charging service to fit your needs of your Lipo
 * NodeMCU GND -> TP4056 OUT-
 * NodeMCU Vin -> TP4056 OUT+
- * I attached a switch beween the above connection to switch the device on and off
-  
+ * I attached a switch beween the above connection to switch the device on and off  
  ---
-  
- ##Software
+
+##Software
  [Coming soon]
- 
+  
 ###Calibration
  [Coming soon]
  
