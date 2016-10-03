@@ -6,11 +6,11 @@ This is the readme of my hobby-project FoxTracker, which is a headTracking devic
 **Im a hobbyist, always check for possible mistakes. Im not responsible if anything goes wrong.**
 ---
 ##Hardware
-*NodeMCU (developmentboard with ESP8266, which can be programmed per USB
-*MPU 9255 (9axis gyro) Be aware, there are also MPU9150 and MPUI 9250. I choose MPU925*5*
-*TP4056 (Lipo-charging circuit) 
-*Lipo Baterie. I chose 100mA. I think 200 would be better
-*Switch
+* NodeMCU (developmentboard with ESP8266, which can be programmed per USB
+* MPU 9255 (9axis gyro) Be aware, there are also MPU9150 and MPUI 9250. I choose MPU925*5*
+* TP4056 (Lipo-charging circuit) 
+* Lipo Baterie. I chose 100mA. I think 200 would be better
+* Switch
 
 ###Wiring
 Test your circuit on a breadboard first!
